@@ -75,7 +75,7 @@ def delete_locker_function(db: Session, locker_id: int) -> Result[Locker]:
         db.commit()
         
         
-        esp_ip = "192.168.157.104"  
+        esp_ip = "<ESP_IP_ADDRESS>"  
         relay_url = f"http://{esp_ip}/ACTIVATE_RELAY?id={locker_id}"
 
         
