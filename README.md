@@ -48,6 +48,3 @@ The system integrates both hardware and software components, which include:
 - **Biometric Integration**: Add fingerprint or facial recognition for enhanced security.  
 - **Battery Backup**: Ensure functionality during extended power outages.  
 - **Mobile App**: Develop a dedicated app for better user experience.  
-
-## License  
-This project is licensed under the MIT License. See the LICENSE file for details.  
